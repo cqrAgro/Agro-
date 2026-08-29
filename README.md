@@ -1,2 +1,2 @@
-# Agro-
+# Cota-boi
 App de cotação do boi gordo e indicadores agro por estado
